@@ -10,7 +10,7 @@
     ],
     "repository": "https://github.com/betterbot69",
     "website": "https://t.me/+vNvfwK-JnmRlNzQ1",
-    "success_url": "https://t.me/mbhbackup",
+    "success_url": "https://t.me/mbh_movies_bot",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @USERS_RO_BOT"
