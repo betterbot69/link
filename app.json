@@ -1,6 +1,6 @@
 {
-    "name": "This is Inline Search Bot by @mbh_movies_bot",
-    "description": "This is Inline Channel Messages Search Bot by @mbh_movies_bot",
+    "name": "This is Inline Search Bot by @mbhbackup",
+    "description": "This is Inline Channel Messages Search Bot by @mbhbackup",
     "keywords": [
         "telegram",
         "channel",
@@ -10,7 +10,7 @@
     ],
     "repository": "https://github.com/betterbot69",
     "website": "https://t.me/+vNvfwK-JnmRlNzQ1",
-    "success_url": "https://t.me/mbh_movies_bot",
+    "success_url": "https://t.me/mbhbackup",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @USERS_RO_BOT"
