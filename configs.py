@@ -34,9 +34,9 @@ If You Want Your Own Bot Like This Then You Can Contact Our Creator.</b>
     HOME_TEXT = """
 <b>Hey! {}😅,
 
-I'm Link Search Bot.🤖
+I'm a Movie Search Bot.🤖
 
-I Can Search 🔍 What You Want❗
+I Can Search 🔍 Which Movie Do You Want❗
 
 <a>Made With ❤ By @mbhbackup</a></b>
 """
@@ -45,9 +45,9 @@ I Can Search 🔍 What You Want❗
     START_MSG = """
 <b>Hey! {}😅,
 
-I'm Link Search Bot.🤖
+I'm a Movie Search Bot.🤖
 
-I Can Search 🔍 What You Want❗
+I Can Search 🔍 Which Movie Do You Want❗
 
 <a>Made With ❤ By @mbhbackup</a></b>
 """
