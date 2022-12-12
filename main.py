@@ -23,7 +23,7 @@ User = Client(
 
 @Bot.on_message(filters.private & filters.command("start"))
 async def start_handler(_, event: Message):
-	await event.reply_photo("https://telegra.ph/file/19eeb26fa2ce58765917a.jpg",
+	await event.reply_photo("https://telegra.ph/file/e5a2f8d8d3f082f3a210a.jpg",
                                 caption=Config.START_MSG.format(event.from_user.mention),
                                 reply_markup=InlineKeyboardMarkup([
 					[InlineKeyboardButton('❤ Donation Link', url='https://t.me/+vNvfwK-JnmRlNzQ1')],
