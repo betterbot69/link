@@ -27,7 +27,7 @@ class Config(object):
 👨‍💻 Created By: <a href='https://t.me/mbhbackup'>mbhbackup</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Creator : <a href='https://t.me/'>mbhbackup</a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Creator : <a href='https://t.me/mbhbackup</a>
 If You Want Your Own Bot Like This Then You Can Contact Our Creator.</b>
 """
 
